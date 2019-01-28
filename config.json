@@ -1,0 +1,11 @@
+{
+  "compile": true,
+  "display": true,
+  "compileCommands": [
+    "latexmk -cd -gg -pdf $FILE",
+    "latexmk -c -outdir=$PATH $FILE"
+  ],
+  "displayCommands": [
+    "\"C:\\Program Files\\SumatraPDF\\SumatraPDF.exe\" $OUTFILE"
+  ]
+}
