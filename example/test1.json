@@ -131,7 +131,7 @@
           "imageCaption": "This is the image caption",
           "imageMarker": "image_label",
           "imageFilename": "img/test1_cat.jpg",
-          "imageSize": "3.5"
+          "imageSize": 2.5
         }
       ]
     }
