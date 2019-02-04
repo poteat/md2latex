@@ -50,7 +50,8 @@
   "tableRowEnd": "\\\\\n",
   "tableEnd": "\\hline\n\\end{tabular}\n\\end{table}\n\\captionsetup{font={footnotesize,rm},justification=centering,labelsep=period}\n\n",
 
-  "imageBegin": "\\begin{figure}[htbp]\n\\centering\n\\includegraphics[width=2.5in]{",
+  "imageBegin": "\\begin{figure}[htbp]\n\\centering\n\\includegraphics[width=",
+  "imageWidthEnd": "in]{",
   "imageEnd": "}\n",
   "imageCaptionBegin": "\\caption{",
   "imageCaptionEnd": "}\n",

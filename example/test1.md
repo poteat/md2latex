@@ -69,7 +69,7 @@ Dorem lipsum set amet foo bar.
 The conclusion goes here. The conclusion goes here. The conclusion goes here.
 The conclusion goes here.
 
-![image_label](img/test1_cat.jpg "This is the image caption")
+![image_label](img/test1_cat.jpg "This is the image caption") 3.5
 
 ## Bibliography
 

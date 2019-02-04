@@ -130,7 +130,8 @@
           "index": 105,
           "imageCaption": "This is the image caption",
           "imageMarker": "image_label",
-          "imageFilename": "img/test1_cat.jpg"
+          "imageFilename": "img/test1_cat.jpg",
+          "imageSize": "3.5"
         }
       ]
     }
