@@ -9,6 +9,7 @@
 \usepackage{array}
 \usepackage[english]{babel}
 \usepackage[autostyle]{csquotes}
+\usepackage[T1]{fontenc}
 \MakeOuterQuote{"}
 \parskip 3pt plus 2pt minus 1pt
 \pagestyle{empty}
@@ -49,8 +50,8 @@ Class, IEEEtran, LATEX, paper, style, template, typesetting.
 \hline
 \textit{foobar} & \textit{set amet} \\
 \hline
-f1 & s1\\
-f2 & s2\\
+f1 & \texttt{s1 || s2}\\
+f2 & \texttt{s2 \&\& f2}\\
 \hline
 \end{tabular}
 \end{table}
@@ -105,7 +106,7 @@ The conclusion goes here.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=2.5in]{img/test1_cat.jpg}
+\includegraphics[width=3.5in]{img/test1_cat.jpg}
 \caption{This is the image caption}
 \label{image_label}
 \end{figure}

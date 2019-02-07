@@ -25,10 +25,10 @@ Class, IEEEtran, LATEX, paper, style, template, typesetting.
 List of Historical Figures
 [historicalFigures]
 
-| foobar | set amet |
-| ------ | -------- |
-| f1     | s1       |
-| f2     | s2       |
+| foobar | set amet            |
+| ------ | ------------------- |
+| f1     | \texttt{s1 \|\| s2} |
+| f2     | \texttt{s2 && f2}   |
 
 With a recent IEEEtran class file, a computer running LATEX, and a basic
 understanding of the LATEX language, an author can produce professional quality

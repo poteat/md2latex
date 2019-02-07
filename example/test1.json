@@ -51,22 +51,22 @@
             ],
             [
               "f1",
-              "s1"
+              "\\texttt{s1 || s2}"
             ],
             [
               "f2",
-              "s2"
+              "\\texttt{s2 \\&\\& f2}"
             ]
           ]
         },
         {
           "type": "paragraph",
-          "index": 137,
+          "index": 181,
           "paragraphContents": "With a recent IEEEtran class file, a computer running LATEX, and a basic\nunderstanding of the LATEX language, an author can produce professional quality\ntypeset research papers very quickly, inexpensively, and with minimal effort.\nThe purpose of this article is to serve as a user guide of [historicalFigures]\nIEEEtran LATEX class and to document its unique features and behavior."
         },
         {
           "type": "numberedList",
-          "index": 518,
+          "index": 562,
           "entries": [
             "List item",
             "Art",
@@ -75,12 +75,12 @@
         },
         {
           "type": "paragraph",
-          "index": 558,
+          "index": 602,
           "paragraphContents": "This document applies to version 1.7 and later of IEEEtran. Prior versions do\nnot have all of the features described here. IEEEtran will display the version\nnumber on the user’s console when a document using it is being compiled. The\nlatest version of IEEEtran and its support files can be obtained from IEEE’s web\nsite [Firstman:2014], or CTAN [Fubtutorial:2014]. This latter site may have some\nadditional material, such as beta test versions and files related to non-IEEE\nuses of IEEEtran. See the IEEEtran homepage [Bookman:2014] for frequently asked\nquestions and recent news about IEEEtran."
         },
         {
           "type": "unorderedList",
-          "index": 1154,
+          "index": 1198,
           "entries": [
             "foob",
             "foobar",
@@ -89,7 +89,7 @@
         },
         {
           "type": "subsection",
-          "index": 1182,
+          "index": 1226,
           "subsectionTitle": "Subsection Title",
           "subsectionMarker": "subsectiontitle",
           "subsectionContents": [
@@ -131,7 +131,7 @@
           "imageCaption": "This is the image caption",
           "imageMarker": "image_label",
           "imageFilename": "img/test1_cat.jpg",
-          "imageSize": 2.5
+          "imageSize": "3.5"
         }
       ]
     }
