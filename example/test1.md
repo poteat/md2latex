@@ -53,6 +53,23 @@ questions and recent news about IEEEtran.
 - foobar
 - foo amet
 
+```latex
+\begin{algorithm}[ht]
+\SetKwInOut{Input}{Input}
+\SetKwInOut{Output}{Output}
+\underline{function A} $(x)$\;
+\Input{Array of reals $x$ of size $n$}
+\Output{Array of reals, size $n$}
+  $\tt{bool}: \alpha = \tt{true}$\;
+  \For{$x_i \in x$}{
+    $\alpha = x_i \land \alpha$\;
+    $x_i = \alpha$\;
+  }
+  return $x$\;
+\caption{'Always' operator, unbounded.  Resultant array is true up until $x_i$ is false.}
+\end{algorithm}
+```
+
 ### Subsection Title
 
 Now, we add some itemize and enumerate. Now, we add some itemize and enumerate.

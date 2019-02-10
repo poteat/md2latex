@@ -88,8 +88,13 @@
           ]
         },
         {
+          "type": "latexBlock",
+          "index": 1227,
+          "latexContents": "\\begin{algorithm}[ht]\n\\SetKwInOut{Input}{Input}\n\\SetKwInOut{Output}{Output}\n\\underline{function A} $(x)$\\;\n\\Input{Array of reals $x$ of size $n$}\n\\Output{Array of reals, size $n$}\n$\\tt{bool}: \\alpha = \\tt{true}$\\;\n\\For{$x_i \\in x$}{\n$\\alpha = x_i \\land \\alpha$\\;\n$x_i = \\alpha$\\;\n}\nreturn $x$\\;\n\\caption{'Always' operator, unbounded.  Resultant array is true up until $x_i$ is false.}\n\\end{algorithm}"
+        },
+        {
           "type": "subsection",
-          "index": 1226,
+          "index": 1657,
           "subsectionTitle": "Subsection Title",
           "subsectionMarker": "subsectiontitle",
           "subsectionContents": [

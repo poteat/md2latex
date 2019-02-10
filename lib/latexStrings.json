@@ -1,5 +1,5 @@
 {
-  "header": "\\documentclass[10pt,conference,compsocconf]{IEEEtran}\n\\usepackage{amssymb}\n\\usepackage{amsmath}\n\\usepackage{times}\n\\usepackage{caption}\n\\captionsetup{font=footnotesize,justification=centering,labelsep=period}\n\\usepackage{cite}\n\\usepackage[pdftex]{graphicx}\n\\usepackage{array}\n\\usepackage[english]{babel}\n\\usepackage[autostyle]{csquotes}\n\\usepackage[T1]{fontenc}\n\\MakeOuterQuote{\"}\n\\parskip 3pt plus 2pt minus 1pt\n\\pagestyle{empty}\n\\begin{document}\n\\pagenumbering{gobble}\n\n",
+  "header": "\\documentclass[10pt,conference,compsocconf]{IEEEtran}\n\\usepackage{amssymb}\n\\usepackage{amsmath}\n\\usepackage{times}\n\\usepackage{caption}\n\\captionsetup{font=footnotesize,justification=centering,labelsep=period}\n\\usepackage{cite}\n\\usepackage[pdftex]{graphicx}\n\\usepackage{array}\n\\usepackage[english]{babel}\n\\usepackage[autostyle]{csquotes}\n\\usepackage[T1]{fontenc}\n\\usepackage[linesnumbered,ruled]{algorithm2e}\n\\MakeOuterQuote{\"}\n\\parskip 3pt plus 2pt minus 1pt\n\\pagestyle{empty}\n\\begin{document}\n\\pagenumbering{gobble}\n\n",
 
   "titleBegin": "\\title{\\textbf{\\Large ",
   "titleEnd": "}\\\\[0.2ex]}\n\n",
