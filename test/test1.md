@@ -53,7 +53,7 @@ questions and recent news about IEEEtran.
 - foobar
 - foo amet
 
-```latex
+```ts
 \begin{algorithm}[ht]
 \SetKwInOut{Input}{Input}
 \SetKwInOut{Output}{Output}
