@@ -1,6 +1,6 @@
 {
   "name": "@mpoteat/md2latex",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Convert Markdown to IEEE-standard LaTeX for academic publishing",
   "main": "./lib/md2latex.mjs",
   "bin": {
