@@ -95,6 +95,10 @@
     "subsection": {
       "begin": "Subsection~",
       "end": ""
+    },
+    "algorithm": {
+      "begin": "Algorithm~",
+      "end": ""
     }
   }
 }

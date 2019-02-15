@@ -71,6 +71,8 @@ function A(x: Array<number>, y) {
 }
 ```
 
+We now describe the method illustrated by [alg:always].
+
 ### Subsection Title
 
 Now, we add some itemize and enumerate. Now, we add some itemize and enumerate.
