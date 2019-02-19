@@ -84,10 +84,10 @@ Dorem lipsum set amet foo bar.
 2. Arteful
 3. Foxtrot tangerine
 
-## New Section
+## New Section of Things
 
 The conclusion goes here. The conclusion goes here. The conclusion goes here.
-The conclusion goes here.
+The conclusion goes here. We are currently in [newsectionofthings].
 
 ![image_label](img/test1_cat.jpg "This is the image caption") 3.5
 
