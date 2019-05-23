@@ -2,12 +2,12 @@
   "name": "@mpoteat/md2latex",
   "version": "1.0.11",
   "description": "Convert Markdown to IEEE-standard LaTeX for academic publishing",
-  "main": "./lib/md2latex.mjs",
+  "main": "src/md2latex.mjs",
   "bin": {
-    "md2latex": "cmd.mjs"
+    "md2latex": "bin/cmd.mjs"
   },
   "scripts": {
-    "test": "node --experimental-modules ./cmd.mjs test/test1.md"
+    "test": "node --experimental-modules bin/cmd.mjs test/test1.md"
   },
   "keywords": [
     "md",
