@@ -6,6 +6,6 @@
     "latexmk -c -outdir=$PATH $FILE"
   ],
   "displayCommands": [
-    "\"C:\\Program Files\\SumatraPDF\\SumatraPDF.exe\" $OUTFILE"
+    "xpdf $OUTFILE"
   ]
 }
